@@ -1,1 +1,1 @@
-"this is the readme" 
+Here are my solutions for Codember, most of them will be in written python but I will use any language I feel like using for the solution. In cases where you can pass data as inputs the program will ask you for that data in order to give you the answer to that challenge. 
